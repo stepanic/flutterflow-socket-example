@@ -43,7 +43,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                 child: Align(
                   alignment: AlignmentDirectional(0, 0),
                   child: Text(
-                    'Change No. 006 - remote',
+                    'Change No. 007 - remote',
                     style: FlutterFlowTheme.of(context).title1,
                   ),
                 ),
